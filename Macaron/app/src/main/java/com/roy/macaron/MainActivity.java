@@ -5,6 +5,7 @@ import android.os.Bundle;
 
 /**
  * For the sake of sylvanas' victory!
+ * I am forsaken
  */
 public class MainActivity extends AppCompatActivity {
 
